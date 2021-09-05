@@ -14,6 +14,7 @@ Skills: Python / MATLAB / FORTRAN / COMSOL / Git
 - 📫 How to reach me: 0618bianlong@gmail.com 
 - ⚡ Fun fact: I've always wanted to become an athlete! 
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=SrollLet)](https://github.com/gazf/github-readme-twitter)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MOMOKO606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/long-bian-154bba219/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/letsrollgreygrey/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SrollLet)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/bianlong0618)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.cnblogs.com/momoko)  
 
@@ -33,7 +34,4 @@ Skills: Python / MATLAB / FORTRAN / COMSOL / Git
 
 ![Profile views](https://gpvc.arturio.dev/MOMOKO606)  
 
-<!---
-MOMOKO606/MOMOKO606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
