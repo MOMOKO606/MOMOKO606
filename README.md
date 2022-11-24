@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Bian Long.
-#### A coder, swimmer, slow learner, ph.D, teacher, father, FSW-O to Canada from China. 
+#### A developer, swimmer, learner, ph.D, teacher, father, overseas federal skilled worker immigrant to Canada from China. 
 ![A coder, swimmer, slow learner, ph.D, teacher, father, FSW-O to Canada from China. ](https://raw.githubusercontent.com/MOMOKO606/Pic-Library/master/Xnip2021-09-06_00-14-54.jpg)
 
 My code doesn't work, I have no idea why. My code works I have no idea why =.=
