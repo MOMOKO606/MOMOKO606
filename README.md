@@ -1,13 +1,13 @@
-### Hi there 👋, my name is Bian Long.
+### Hi there 👋, my name is Long Bian.
 #### A developer, swimmer, learner, ph.D, teacher, father, overseas federal skilled worker immigrant to Canada from China. 
 ![A coder, swimmer, slow learner, ph.D, teacher, father, FSW-O to Canada from China. ](https://raw.githubusercontent.com/MOMOKO606/Pic-Library/master/Xnip2021-09-06_00-14-54.jpg)
 
 My code doesn't work, I have no idea why. My code works I have no idea why =.=
 
-Skills: Python / MATLAB / FORTRAN / COMSOL / Git
+Skills: Python / MATLAB / Go / FORTRAN / PHP / Java / COMSOL / Git
 
 - 🔭 I’m currently working on reviewing all my notes and code about CLRS. 
-- 🌱 I’m currently learning cloud tech & LAFF from UT@Austin. 
+- 🌱 I’m currently learning web development & system design. 
 - 👯 I’m looking to collaborate on interesting & fancy web programming project. 
 - 🤔 I’m looking for help with software engineering tricky skills. 
 - 💬 Ask me about basic algorithms, AMC & GRE quantitative problems, IELTS preparation, DIY immigration 
