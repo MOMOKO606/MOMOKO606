@@ -6,9 +6,9 @@ My code doesn't work, I have no idea why. My code works I have no idea why =.=
 
 Skills: Python / MATLAB / Go / FORTRAN / PHP / Java / COMSOL / Git
 
-- 🔭 I’m currently working on reviewing all my notes and code about CLRS. 
-- 🌱 I’m currently learning web development & system design. 
-- 👯 I’m looking to collaborate on interesting & fancy web programming project. 
+- 🔭 I’m currently working on preparing for my job interviews. 
+- 🌱 I’m currently learning distributed systems, microservices, and parallel programming. 
+- 👯 I’m looking to collaborate on interesting & fancy web programming projects. 
 - 🤔 I’m looking for help with software engineering tricky skills. 
 - 💬 Ask me about basic algorithms, AMC & GRE quantitative problems, IELTS preparation, DIY immigration 
 - 📫 How to reach me: 0618bianlong@gmail.com 
