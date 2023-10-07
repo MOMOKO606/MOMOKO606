@@ -12,7 +12,9 @@ Skills: Python / MATLAB / Go / FORTRAN / PHP / Java / COMSOL / Git
 - 🤔 I’m looking for help with software engineering tricky skills. 
 - 💬 Ask me about basic algorithms, AMC & GRE quantitative problems, IELTS preparation, DIY immigration 
 - 📫 How to reach me: 0618bianlong@gmail.com 
-- ⚡ Fun fact: I've always wanted to become an athlete! 
+- ⚡ Fun fact: I've always wanted to become an athlete!
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SrollLet?theme=dark&font=Denk%20One&ext=heatmap)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=SrollLet)](https://github.com/gazf/github-readme-twitter)
 
