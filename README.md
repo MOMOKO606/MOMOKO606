@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Long Bian.
-#### A developer, swimmer, learner, ph.D, teacher, father, overseas federal skilled worker immigrant to Canada from China. 
+#### A developer, swimmer, learner, ph.D, teacher, father, and overseas federal skilled worker immigrant to Canada from China. 
 ![A coder, swimmer, slow learner, ph.D, teacher, father, FSW-O to Canada from China. ](https://raw.githubusercontent.com/MOMOKO606/Pic-Library/master/Xnip2021-09-06_00-14-54.jpg)
 
 My code doesn't work, I have no idea why. My code works I have no idea why =.=
 
-Skills: Python / MATLAB / Go / FORTRAN / PHP / Java / COMSOL / Git
+Skills: Python / MATLAB / Go / FORTRAN / PHP / Java / JavaScript / COMSOL / Vim / Git / Docker
 
-- 🔭 I’m currently working on preparing for my job interviews. 
+- 🔭 I’m currently working on my first interesting game project using Django and JavaScript. 
 - 🌱 I’m currently learning distributed systems, microservices, and parallel programming. 
 - 👯 I’m looking to collaborate on interesting & fancy web programming projects. 
-- 🤔 I’m looking for help with software engineering tricky skills. 
+- 🤔 I’m looking for help with Video editing, Photoshop techniques, gif making skills. 
 - 💬 Ask me about basic algorithms, AMC & GRE quantitative problems, IELTS preparation, DIY immigration 
 - 📫 How to reach me: 0618bianlong@gmail.com 
 - ⚡ Fun fact: I've always wanted to become an athlete!
